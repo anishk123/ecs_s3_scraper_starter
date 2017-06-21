@@ -8,12 +8,12 @@ Just follow the steps below, and if you notice any failures, then please log an 
 ```
 $ git clone https://github.com/anishk123/ecs_s3_scraper_starter.git
 ```
-2. cd ecs_s3_scraper_starter - get to the working directory
+2. ```cd ecs_s3_scraper_starter``` - get to the working directory
 3. Run yarn install
 ```$ yarn install```
 4. Run index.js
 ```$ node index.js```
-5. [Download Docker]((https://www.docker.com/get-docker)) - Docker CE is the free version
+5. [Download Docker](https://www.docker.com/get-docker) - Docker CE is the free version
 
 **You are DONE! and ready to rock on over to [ecs_s3_scraper](https://github.com/anishk123/ecs_s3_scraper)**
  
