@@ -30,5 +30,15 @@ $ git clone https://github.com/anishk123/ecs_s3_scraper_starter.git
 
 6. [Download Docker](https://www.docker.com/get-docker) - Docker CE is the free version
 
+7. Download a nightmare docker image
+```$ docker pull ivanvanderbyl/docker-nightmare```
+
+   *Note: We will be adding our own web scraper code to this image.*
+   
+8. Download a fake S3 docker image
+```$ docker pull lphoward/fake-s3```
+
+   *Note: This image will be used to run a mock S3 service that we can develop our code against, instead of using actual AWS S3*
+
 **You are DONE! and ready to rock on over to [ecs_s3_scraper](https://github.com/anishk123/ecs_s3_scraper)**
  
