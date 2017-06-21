@@ -26,7 +26,7 @@ $ git clone https://github.com/anishk123/ecs_s3_scraper_starter.git
 5. Run index.js
 ```$ node index.js```
 
-   *Note: it will produce no output because we have not written any code in index.js yet, but just make it doesn't give you an error*
+   *Note: the above will open up a web browser written in electron, that will search the keyword "code and coffee vancouver"*
 
 6. [Download Docker](https://www.docker.com/get-docker) - Docker CE is the free version
 
