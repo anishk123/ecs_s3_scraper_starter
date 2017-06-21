@@ -6,7 +6,7 @@ Just follow the steps below, and if you notice any failures, then please log an 
 
 0. [Install node and npm](https://nodejs.org/en/download/package-manager/)
 
-*Note v6 or v7 should be fine
+   *Note v6 or v7 should be fine*
 
 1. Install yarn package manager
 ```npm install -g yarn```
@@ -21,12 +21,12 @@ $ git clone https://github.com/anishk123/ecs_s3_scraper_starter.git
 4. Run yarn install
 ```$ yarn install```
 
-*Note: the above will install the libraries and dependencies required for the project
+   *Note: the above will install the libraries and dependencies required for the project*
 
 5. Run index.js
 ```$ node index.js```
 
-*Note: it will produce no output because we have not written any code in index.js yet, but just make it doesn't give you an error*
+   *Note: it will produce no output because we have not written any code in index.js yet, but just make it doesn't give you an error*
 
 6. [Download Docker](https://www.docker.com/get-docker) - Docker CE is the free version
 
