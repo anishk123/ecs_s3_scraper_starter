@@ -12,7 +12,8 @@ Just follow the steps below, and if you notice any failures, then please log an 
 ```$ npm install -g yarn```
 
 2. Git clone this repo in a directory of your choice, if you haven't already.
-```$ git clone https://github.com/anishk123/ecs_s3_scraper_starter.git```
+    
+    ```$ git clone https://github.com/anishk123/ecs_s3_scraper_starter.git```
 
 3. Get to the working directory
 ```$ cd ecs_s3_scraper_starter```
