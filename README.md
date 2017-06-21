@@ -26,7 +26,7 @@ Just follow the steps below, and if you notice any failures, then please log an 
 5. Run index.js
 ```$ node index.js```
 
-   *Note: the above will open up a web browser written in electron, that will search the keyword "code and coffee vancouver"*
+   *Note: the above will open up a web browser that is written in electron, and it will search the keyword "code and coffee vancouver"*
 
 6. [Download Docker](https://www.docker.com/get-docker) - Docker CE is the free version
 
