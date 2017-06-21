@@ -6,7 +6,7 @@ Just follow the steps below, and if you notice any failures, then please log an 
 
 0. [Install node and npm](https://nodejs.org/en/download/package-manager/)
 
-   *Note v6 or v7 should be fine*
+   *Note: v6 or v7 should be fine*
 
 1. Install yarn package manager
 ```npm install -g yarn```
